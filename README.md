@@ -7,6 +7,7 @@ Awesome Paleo Food [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305
   - [Green-Green](#green-green)
     - [Grains & Seeds](#grains--seeds)
     - [Vegetables, Starchy](#vegetables-starchy)
+  - [Green](#green)
 - [Resources](#resources)
 - [License](#license)
 
@@ -20,6 +21,9 @@ Awesome Paleo Food [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305
 - Red: Bad Lapse ― not acceptable; avoid
 
 ## Green-Green
+
+Perfect ― in perfect conformity
+
 ### Grains & Seeds
 #### Seeds & Seed Products
 
@@ -96,70 +100,194 @@ Awesome Paleo Food [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305
 - flaxseed oil
 - hemp oil
 
+## Green
+### Condiments
 
+- all other herbs
+- lemon juice
+- vinegar, all kinds
 
+### Meat Substitute
 
-| Green-Green               | Amber                     | Amber-Red                                                                | Red                                                                                 |
-| ---                       | ---                       | ---                                                                      | ---                                                                                 |
-|  | **SEEDS & SEED PRODUCTS** | **GRAINS**                                                               | **GRAINS**                                                                          |
-|  | pumpkin seed              | barley, pearl                                                            | barley, cracked                                                                     |
-|  | sesame seed               | **GRAIN PRODUCTS**                                                       | bulgur wheat                                                                        |
-|  | tahini (sesame butter)    | **Bakery**                                                               | corn (maize)                                                                        |
-|  |                           | black bread                                                              | corn on the cob                                                                     |
-|  |                           | porridge                                                                 | oats and oat bran                                                                   |
-|                           |                           | pumpernickel                                                             | rice ― all types                                                                    |
-|                           |                           | vollkornbrot                                                             | rye                                                                                 |
-|                           |                           | **Breakfast Cereals**                                                    | sweet corn (mature)                                                                 |
-|                           |                           | all bran                                                                 | wheat                                                                               |
-|                           |                           | oatmeal                                                                  |                                                                                     |
-|                           |                           | **Pasta**                                                                | **GRAIN PRODUCTS**                                                                  |
-|                           |                           | all, including: gnocchi, lasagna, linguine, macaroni, noodles, spaghetti | **Bakery**                                                                          |
-|                           |                           |                                                                          | all, including: bagel, baguette, rye, white bread, wholewheat bread buns, generally |
-|                           |                           |                                                                          | cakes                                                                               |
-|                           |                           |                                                                          | cookies                                                                             |
-|                           |                           |                                                                          | crackers, water                                                                     |
-|                           |                           |                                                                          | croissant                                                                           |
-|                           |                           |                                                                          | Danish pastry                                                                       |
-|                           |                           |                                                                          | gateaux                                                                             |
-|                           |                           |                                                                          | muffin                                                                              |
-|                           |                           |                                                                          | pastry, generally                                                                   |
-|                           |                           |                                                                          | pizza, all kinds                                                                    |
-|                           |                           |                                                                          | pretzels                                                                            |
-|                           |                           |                                                                          | tarts                                                                               |
-|                           |                           |                                                                          |                                                                                     |
-|                           |                           |                                                                          | **Breakfast Cereals**                                                               |
-|                           |                           |                                                                          | bran cereals                                                                        |
-|                           |                           |                                                                          | Cheerios                                                                            |
-|                           |                           |                                                                          | corn flakes                                                                         |
-|                           |                           |                                                                          | hominy                                                                              |
-|                           |                           |                                                                          | muesli                                                                              |
-|                           |                           |                                                                          | Rice Krispies                                                                       |
-|                           |                           |                                                                          | Shredded Wheat                                                                      |
-|                           |                           |                                                                          | Weetabix                                                                            |
-|                           |                           |                                                                          |                                                                                     |
-|                           |                           |                                                                          | **Sundry**                                                                          |
-|                           |                           |                                                                          | corn starch                                                                         |
-|                           |                           |                                                                          | couscous                                                                            |
-|                           |                           |                                                                          | pancakes                                                                            |
-|                           |                           |                                                                          | pie crust                                                                           |
-|                           |                           |                                                                          | popcorn                                                                             |
-|                           |                           |                                                                          | rice cakes                                                                          |
-|                           |                           |                                                                          | rice pudding                                                                        |
-|                           |                           |                                                                          | semolina                                                                            |
-|                           |                           |                                                                          | waffles                                                                             |
+- mycoprotein (Quorn)
 
-## Vegetables, Starchy
+### Sauces and Dips
 
-| Green-Green         | Amber                 | Amber-Red        | Red            |
-| -------------       | -------------         | -----            | ----           |
-| Vegetables          | Vegetables            | Vegetables       | Potatoes       |
-| -------             | --------              | -----            | ----           |
-| beets, raw          | beets, red (beetroot) | parsnip          | French fries   |
-| carrot, raw, mature |                       | rutabaga (swede) | potato, baked  |
-|                     |                       | sweet potato     | potato, boiled |
-|                     |                       |                  | potato, chips  |
-|                     |                       |                  | potato, mashed |
-|                     |                       |                  |                |
+- guacamole
+
+### Vegetables
+
+- alfalfa sprouts
+- artichoke
+- asparagus
+- avocado
+- bean sprouts
+- bell pepper
+- bok choy
+- celeriac
+- celery
+- chicory
+- coleslaw
+- cress
+- cucumber
+- egg plant
+- endive
+- fennel
+- garlic
+- green beans
+- Jerusalem artichoke
+- kohl rabi
+- leeks
+- lettuce
+- mushroom
+- okra
+- onion
+- palm heart
+- radish
+- spinach
+- sugar snap peas
+- summer squash (marrow)
+- sweet corn, baby
+- turnip
+- water chestnut
+- watercress
+- zucchini (courgette)
+
+### Fruits
+
+- bilberry
+- blackberry
+- cranberry, fresh, unsweetened
+- elderberry
+- gooseberry
+- grapefruit
+- lemon
+- nectarine
+- pomelo
+- raspberry
+- redcurrants
+- strawberry, wild
+- whitecurrant
+
+### Vegetable-fruits
+
+- avocado
+
+### Eggs
+
+- all other eggs, including:
+- eggs, chicken
+- eggs, duck
+- eggs, goose
+- eggs, quail
+- eggs, turkey
+
+### Fish, finfish
+
+- all other fish, including:
+- caviar
+- cod
+- eel
+- haddock
+- hailbut
+- monkfish
+- pike
+- pollock
+- roe
+- roughy, orange
+- sea bass
+- sea bream
+- shark
+- skate
+- swordfish
+- turbot
+
+### Fish, shellfish
+
+- all shellfish, including:
+- calamari
+- crab
+- crayfish
+- cuttlefish
+- lobster
+- mussels
+- octopus
+- prawns
+- scallop
+- whelks
+
+### Meat, exotic
+
+- crocodile
+- escargots (snails)
+- frogs' legs
+- turtle
+
+### Meat, farmed
+
+- goat
+- rabbit
+
+### Meat, game
+
+- bison
+- boar, wild
+- buffalo
+- caribou
+- deer (venison)
+- elk
+- horse
+- moose
+
+### Meat, offal
+
+- kidney
+- tripe
+
+### Poultry, frarmed
+
+- chicken, brest, skinless
+- duck
+- emu
+- goose
+- ostrich
+- turkey, breast, skinless
+
+### Poultry, wild
+
+- duck, wild
+- goose, wild
+- partridge
+- pheasant
+- pigeon
+- quail
+
+## Nuts
+### Tree Nuts
+
+Note: All nuts must be fresh, raw, and unsalted.
+
+- almond
+- brazil
+- cashew
+- filbert (hazelnut, cobnut)
+- macadamia
+- pecan
+- pine
+- pistachio
+
+## Fats and Oils
+### Plant Oils
+
+- almond cream
+- mayonnaise, canola
+- mayonnaise, olive oil
+- olive oil
+- spread, canola (check the ingredients)
+- spread, olive oil (check the ingredients)
+- walnut oil
+
+## Sugars & Sweeteners
 
 # Resourses
 
