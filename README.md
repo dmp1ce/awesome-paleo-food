@@ -4,9 +4,9 @@ Awesome Paleo Food [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305
 [Awesome](https://github.com/sindresorhus/awesome) list for conforming paleo food. Based off the book Paleo in a Nutshell: Living and Eating the Way Nature Intended by Geoff Bond.
 
 - [Food list](#food-list)
--- [Grains & Seeds](#)
--- [Vegetables, Starchy](#)
-- [Resourses]()
+  - [Grains & Seeds](#grans--seeds)
+  - [Vegetables, Starchy](#vegetables-starchy)
+- [Resourses](#resources)
 - [License](#license)
 
 # Food list
@@ -20,14 +20,53 @@ Awesome Paleo Food [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305
 
 ## Grains & Seeds
 
-| Green-Green                | Amber                  | Amber-Red      | Red             |
-| -------------              | -------------          | -----          | ----            |
-| Seeds & Seed Products      | Seeds & Seed Products  | Grains         | GRAINS          |
-|                            | --------               | -----          | ----            |
-| - chia seed, butter, flour | pumpkin seed           | barley, pearl  | barley, cracked |
-| - flaxseed butter          | sesame seed            | GRAIN PRODUCTS | bulgur wheat    |
-| - flaxseed flour           | tahini (sesame butter) | Bakery         | corn (maize)    |
-|                            |                        |                | corn on the cob |
+| Green-Green               | Amber                     | Amber-Red                                                                | Red                                                                                 |
+| ---                       | ---                       | ---                                                                      | ---                                                                                 |
+| **SEEDS & SEED PRODUCTS** | **SEEDS & SEED PRODUCTS** | **GRAINS**                                                               | **GRAINS**                                                                          |
+| chia seed, butter, flour  | pumpkin seed              | barley, pearl                                                            | barley, cracked                                                                     |
+| flaxseed butter           | sesame seed               |                                                                          | bulgur wheat                                                                        |
+| flaxseed flour            | tahini (sesame butter)    | **GRAIN PRODUCTS**                                                       | corn (maize)                                                                        |
+| hempseed butter           |                           | **Bakery**                                                               | corn on the cob                                                                     |
+| hempseed flour            |                           | black bread                                                              | oats and oat bran                                                                   |
+|                           |                           | porridge                                                                 | rice -- all types                                                                   |
+|                           |                           | pumpernickel                                                             | rye                                                                                 |
+|                           |                           | vollkornbrot                                                             | sweet corn (mature)                                                                 |
+|                           |                           |                                                                          | wheat                                                                               |
+|                           |                           | **Breakfast Cereals**                                                    |                                                                                     |
+|                           |                           | all bran                                                                 | **GRAIN PRODUCTS**                                                                  |
+|                           |                           | oatmeal                                                                  | **Bakery**                                                                          |
+|                           |                           |                                                                          | all, including: bagel, baguette, rye, white bread, wholewheat bread buns, generally |
+|                           |                           | **Pasta**                                                                | cakes                                                                               |
+|                           |                           | all, including: gnocchi, lasagna, linguine, macaroni, noodles, spaghetti | cookies                                                                             |
+|                           |                           |                                                                          | crackers, water                                                                     |
+|                           |                           |                                                                          | croissant                                                                           |
+|                           |                           |                                                                          | Danish pastry                                                                       |
+|                           |                           |                                                                          | gateaux                                                                             |
+|                           |                           |                                                                          | muffin                                                                              |
+|                           |                           |                                                                          | pastry, generally                                                                   |
+|                           |                           |                                                                          | pizza, all kinds                                                                    |
+|                           |                           |                                                                          | pretzels                                                                            |
+|                           |                           |                                                                          | tarts                                                                               |
+|                           |                           |                                                                          |                                                                                     |
+|                           |                           |                                                                          | **Breakfast Cereals**                                                               |
+|                           |                           |                                                                          | bran cereals                                                                        |
+|                           |                           |                                                                          | Cheerios                                                                            |
+|                           |                           |                                                                          | corn flakes                                                                         |
+|                           |                           |                                                                          | hominy                                                                              |
+|                           |                           |                                                                          | muesli                                                                              |
+|                           |                           |                                                                          | Rice Krispies                                                                       |
+|                           |                           |                                                                          | Shredded Wheat                                                                      |
+|                           |                           |                                                                          | Weetabix                                                                            |
+|                           |                           |                                                                          |                                                                                     |
+|                           |                           |                                                                          | **Sundry**                                                                          |
+|                           |                           |                                                                          | corn starchycouscous                                                                |
+|                           |                           |                                                                          | pancakes                                                                            |
+|                           |                           |                                                                          | pie crust                                                                           |
+|                           |                           |                                                                          | popcorn                                                                             |
+|                           |                           |                                                                          | rice cakes                                                                          |
+|                           |                           |                                                                          | rice pudding                                                                        |
+|                           |                           |                                                                          | semolina                                                                            |
+|                           |                           |                                                                          | waffles                                                                             |
 
 
 ## Vegetables, Starchy
