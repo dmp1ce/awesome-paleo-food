@@ -4,40 +4,119 @@ Awesome Paleo Food [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305
 [Awesome](https://github.com/sindresorhus/awesome) list for conforming paleo food. Based off the book Paleo in a Nutshell: Living and Eating the Way Nature Intended by Geoff Bond.
 
 - [Food list](#food-list)
-  - [Grains & Seeds](#grans--seeds)
-  - [Vegetables, Starchy](#vegetables-starchy)
-- [Resourses](#resources)
+  - [Green-Green](#green-green)
+    - [Grains & Seeds](#grains--seeds)
+    - [Vegetables, Starchy](#vegetables-starchy)
+- [Resources](#resources)
 - [License](#license)
 
 # Food list
 
-- Green-Green: Perfect -- in perfect conformity
-- Green: Conforming -- in close conformity
-- Green-Amber: Comfort Zone -- within the margin of tolerance for everyday consumption by a healthy person
-- Amber: Slight Lapse -- acceptable for a healthy person to consume on a regular basis, provided the rest of the diet is conforming
-- Amber-Red: Modest Lapse -- acceptable for a healthy person to consume on an occasional basis, provided the rest of the eating pattern is conforming
-- Red: Bad Lapse -- not acceptable; avoid
+- Green-Green: Perfect ― in perfect conformity
+- Green: Conforming ― in close conformity
+- Green-Amber: Comfort Zone ― within the margin of tolerance for everyday consumption by a healthy person
+- Amber: Slight Lapse ― acceptable for a healthy person to consume on a regular basis, provided the rest of the diet is conforming
+- Amber-Red: Modest Lapse ― acceptable for a healthy person to consume on an occasional basis, provided the rest of the eating pattern is conforming
+- Red: Bad Lapse ― not acceptable; avoid
 
-## Grains & Seeds
+## Green-Green
+### Grains & Seeds
+#### Seeds & Seed Products
+
+- chia seed, butter, flour
+- flaxseed butter
+- flaxseed flour
+- hempseed butter
+- hempseed flour
+
+### Vegetables, Non-Starchy
+#### Vegetables
+
+- beet greens
+- broccoli
+- Brussels sprouts
+- cabbage, red
+- cabbage, white
+- cauliflower
+- kale
+- Swiss chard
+- turnip greens
+
+#### Herbs
+
+- garlic
+- ginger
+- parsley
+
+### Meat, Poultry, Eggs, and Fish
+#### Eggs
+
+- eggs, omega-3
+
+#### Fish, finfish
+
+- herring
+- mackerel
+- salmon
+- sardine
+- trout
+- tuna
+
+#### Fish, shellfish
+
+- clam
+- oysters
+- shrimp
+- squid
+
+### Nuts
+#### Tree Nuts
+
+- walnut
+
+### Fats and Oils
+#### Fish Oils
+
+- all fish oil, including:
+- cod liver oil
+- herring oil
+- menhaden oil
+- salmon oil
+- sardine oil
+
+#### Marine oils
+
+- all marine oils, including:
+- seal oil
+- whale oil
+
+#### Plant Oils
+
+- canola (rapeseed) oil
+- flaxseed oil
+- hemp oil
+
+
+
 
 | Green-Green               | Amber                     | Amber-Red                                                                | Red                                                                                 |
 | ---                       | ---                       | ---                                                                      | ---                                                                                 |
-| **SEEDS & SEED PRODUCTS** | **SEEDS & SEED PRODUCTS** | **GRAINS**                                                               | **GRAINS**                                                                          |
-| chia seed, butter, flour  | pumpkin seed              | barley, pearl                                                            | barley, cracked                                                                     |
-| flaxseed butter           | sesame seed               |                                                                          | bulgur wheat                                                                        |
-| flaxseed flour            | tahini (sesame butter)    | **GRAIN PRODUCTS**                                                       | corn (maize)                                                                        |
-| hempseed butter           |                           | **Bakery**                                                               | corn on the cob                                                                     |
-| hempseed flour            |                           | black bread                                                              | oats and oat bran                                                                   |
-|                           |                           | porridge                                                                 | rice -- all types                                                                   |
-|                           |                           | pumpernickel                                                             | rye                                                                                 |
-|                           |                           | vollkornbrot                                                             | sweet corn (mature)                                                                 |
-|                           |                           |                                                                          | wheat                                                                               |
-|                           |                           | **Breakfast Cereals**                                                    |                                                                                     |
-|                           |                           | all bran                                                                 | **GRAIN PRODUCTS**                                                                  |
-|                           |                           | oatmeal                                                                  | **Bakery**                                                                          |
+|  | **SEEDS & SEED PRODUCTS** | **GRAINS**                                                               | **GRAINS**                                                                          |
+|  | pumpkin seed              | barley, pearl                                                            | barley, cracked                                                                     |
+|  | sesame seed               | **GRAIN PRODUCTS**                                                       | bulgur wheat                                                                        |
+|  | tahini (sesame butter)    | **Bakery**                                                               | corn (maize)                                                                        |
+|  |                           | black bread                                                              | corn on the cob                                                                     |
+|  |                           | porridge                                                                 | oats and oat bran                                                                   |
+|                           |                           | pumpernickel                                                             | rice ― all types                                                                    |
+|                           |                           | vollkornbrot                                                             | rye                                                                                 |
+|                           |                           | **Breakfast Cereals**                                                    | sweet corn (mature)                                                                 |
+|                           |                           | all bran                                                                 | wheat                                                                               |
+|                           |                           | oatmeal                                                                  |                                                                                     |
+|                           |                           | **Pasta**                                                                | **GRAIN PRODUCTS**                                                                  |
+|                           |                           | all, including: gnocchi, lasagna, linguine, macaroni, noodles, spaghetti | **Bakery**                                                                          |
 |                           |                           |                                                                          | all, including: bagel, baguette, rye, white bread, wholewheat bread buns, generally |
-|                           |                           | **Pasta**                                                                | cakes                                                                               |
-|                           |                           | all, including: gnocchi, lasagna, linguine, macaroni, noodles, spaghetti | cookies                                                                             |
+|                           |                           |                                                                          | cakes                                                                               |
+|                           |                           |                                                                          | cookies                                                                             |
 |                           |                           |                                                                          | crackers, water                                                                     |
 |                           |                           |                                                                          | croissant                                                                           |
 |                           |                           |                                                                          | Danish pastry                                                                       |
@@ -59,7 +138,8 @@ Awesome Paleo Food [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305
 |                           |                           |                                                                          | Weetabix                                                                            |
 |                           |                           |                                                                          |                                                                                     |
 |                           |                           |                                                                          | **Sundry**                                                                          |
-|                           |                           |                                                                          | corn starchycouscous                                                                |
+|                           |                           |                                                                          | corn starch                                                                         |
+|                           |                           |                                                                          | couscous                                                                            |
 |                           |                           |                                                                          | pancakes                                                                            |
 |                           |                           |                                                                          | pie crust                                                                           |
 |                           |                           |                                                                          | popcorn                                                                             |
@@ -67,7 +147,6 @@ Awesome Paleo Food [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305
 |                           |                           |                                                                          | rice pudding                                                                        |
 |                           |                           |                                                                          | semolina                                                                            |
 |                           |                           |                                                                          | waffles                                                                             |
-
 
 ## Vegetables, Starchy
 
